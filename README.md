@@ -6,7 +6,7 @@ A comprehensive collection of **unsupervised learning algorithms** implemented f
 
 ---
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 unsupervised-learning/
@@ -24,7 +24,7 @@ unsupervised-learning/
 
 ---
 
-## 🎯 Algorithms Implemented
+## Algorithms Implemented
 
 ### Clustering Algorithms (4)
 
@@ -82,11 +82,11 @@ unsupervised-learning/
 
 ---
 
-## 🔬 What's Included
+## What's Included
 
 Each algorithm component contains:
 
-### 📖 Theory (`theory.md`)
+### Theory (`theory.md`)
 - Mathematical foundations
 - Algorithm intuition
 - When to use vs when not to
@@ -94,20 +94,20 @@ Each algorithm component contains:
 - Comparison with alternatives
 - Key questions and answers
 
-### 💻 Implementation (`*_from_scratch.ipynb`)
+### Implementation (`*_from_scratch.ipynb`)
 - From-scratch NumPy implementation
 - Step-by-step walkthrough
 - sklearn comparison (validation)
 - Code matches theory
 
-### 📊 Demonstrations (`*.ipynb`)
+### Demonstrations (`*.ipynb`)
 - Visual explanations
 - Real-world datasets
 - Hyperparameter effects
 - Practical examples
 - Interactive visualizations
 
-### 🛠️ Utilities (`utils.py`)
+### Utilities (`utils.py`)
 - Reusable helper functions
 - Distance metrics
 - Evaluation metrics
@@ -115,7 +115,7 @@ Each algorithm component contains:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
@@ -149,7 +149,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 📊 Key Concepts
+## Key Concepts
 
 ### Clustering
 **Goal**: Group similar data points together without labels
@@ -173,7 +173,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 🎓 Learning Path
+## Learning Path
 
 ### Beginner
 1. **Start**: K-Means (simplest clustering)
@@ -192,7 +192,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 📈 Comparison Guide
+## Comparison Guide
 
 ### When to use which clustering?
 
@@ -214,7 +214,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.8+**
 - **NumPy**: Core computations
@@ -225,7 +225,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 📝 Design Philosophy
+## Design Philosophy
 
 ### 1. **Clarity Over Brevity**
 - Explicit implementations over one-liners
@@ -250,7 +250,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 🎯 Repository Goals
+## Repository Goals
 
 1. **Deep Understanding**: Not just "how" but "why"
 2. **Practical Intuition**: When to use each algorithm
@@ -260,7 +260,7 @@ labels = kmeans.predict(X)
 
 ---
 
-## 📚 Resources & References
+## Resources & References
 
 ### Books
 - "Pattern Recognition and Machine Learning" - Bishop
@@ -275,19 +275,13 @@ labels = kmeans.predict(X)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal learning repository, but suggestions and corrections are welcome!
 
 ---
 
-## 📄 License
-
-MIT License - feel free to learn from and build upon this work.
-
----
-
-## 👤 Author
+## Author
 
 **Sreekar Yerragunta**
 
