@@ -18,6 +18,8 @@ unsupervised-learning/
 ├── 06_tsne/                      # t-SNE Visualization
 ├── 07_umap/                      # UMAP Dimensionality Reduction
 ├── 08_ica/                       # Independent Component Analysis
+├── 09_association_rules/         # Association Rule Mining
+├── 10_anomaly_detection/         # Anomaly Detection
 ├── requirements.txt
 └── README.md
 ```
@@ -79,6 +81,22 @@ unsupervised-learning/
 - Non-Gaussian components
 - Blind source separation
 - **Use case**: Audio separation, fMRI analysis
+
+---
+
+### Pattern Discovery & Detection (2)
+
+**9. Association Rule Mining**
+- Apriori and FP-Growth algorithms
+- Support, Confidence, Lift metrics
+- Market basket analysis
+- **Use case**: Product recommendations, cross-selling
+
+**10. Anomaly Detection**
+- Isolation Forest
+- One-Class SVM
+- Local Outlier Factor (LOF)
+- **Use case**: Fraud detection, intrusion detection, quality control
 
 ---
 
